@@ -1,6 +1,6 @@
 {
   "name": "essense",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Javascript library with essential functions",
   "main": "src/index.js",
   "scripts": {
