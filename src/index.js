@@ -1,4 +1,4 @@
-export const poll = ( timeout, interval) => {
+export const poll = ( fn,timeout, interval) => {
     var endtime = Number(new Date()) + (timeout || 2000);
     interval = interval || 100;
 
