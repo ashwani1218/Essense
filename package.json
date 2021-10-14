@@ -1,0 +1,30 @@
+{
+  "name": "essense",
+  "version": "1.0.0",
+  "description": "Javascript library with essential functions",
+  "main": "Essense.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwani1218/Essense.git"
+  },
+  "keywords": [
+    "Essense",
+    "javascript",
+    "poll",
+    "absoluteURL",
+    "once",
+    "deBounce",
+    "isNative",
+    "matchesSelector",
+    "lightenDarkenColor"
+  ],
+  "author": "Ashwani Pandey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashwani1218/Essense/issues"
+  },
+  "homepage": "https://github.com/ashwani1218/Essense#readme"
+}
