@@ -1,8 +1,9 @@
 {
   "name": "essense",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Javascript library with essential functions",
-  "main": "src/essense.js",
+  "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
